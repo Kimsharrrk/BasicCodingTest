@@ -46,8 +46,8 @@ public class BaekJoon_1063_KIng {
                 dx = x[1];
                 dy = y[1];
             } else if (Move.equals("LT")) {
-                dx = x[5];
-                dy = y[5];
+                dx = x[7];
+                dy = y[7];
             } else if (Move.equals("RB")) {
                 dx = x[3];
                 dy = y[3];
