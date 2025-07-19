@@ -12,6 +12,7 @@ public class BaekJoon_3003_MakingChess {
 //체스는 총 16개의 피스를 사용하며, 킹 1개, 퀸 1개, 룩 2개, 비숍 2개, 나이트 2개, 폰 8개로 구성되어 있다.
         int whiteChess[] = new int[6];
 
+
         for (int i= 0; 6 > i ; i++ ){
             int want = Integer.parseInt(st.nextToken());
 
