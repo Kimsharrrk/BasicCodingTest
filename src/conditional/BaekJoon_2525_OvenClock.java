@@ -10,33 +10,17 @@ public class BaekJoon_2525_OvenClock {
         BufferedReader Bf = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer St = new StringTokenizer(Bf.readLine());
 
-
         int H = Integer.parseInt(St.nextToken());
         int M = Integer.parseInt(St.nextToken());
-        StringTokenizer St2 = new StringTokenizer(Bf.readLine());
 
-        int CookTime = Integer.parseInt(St2.nextToken());
-        int count = 0;
+        int CookTime = Integer.parseInt(Bf.readLine());
 
+        // 전체 시간을 분으로 계산
+        int totalMinutes = H * 60 + M + CookTime;
 
-        M += CookTime;
-
-        if (M > 60){
-            M = 0;
-            CookTime -= 60;
-            for (int i = 0; M > 60; i++){
-
-                CookTime -= 60;
-                M += CookTime;
-                count++;
-
-
-
-            }
-            H += count;
-
-
-        }
+        // 시와 분으로 다시 변환
+        H = (totalMinutes / 60) % 24; // 24시간 시계 반영
+        M = totalMinutes % 60;
 
         System.out.println(H + " " + M);
     }
