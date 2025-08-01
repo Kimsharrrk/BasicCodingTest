@@ -16,20 +16,22 @@ import java.util.StringTokenizer;
 public class BaekJoon_2644 {
 
     static int Start, End; //첫, 끝 노드
-    static int count = 0;
+    static int[] depth;
+
 
     static boolean[] visited; // 필수 ) 방문 여부를 기록할 배열
     static ArrayList<ArrayList<Integer>> graph = new ArrayList<>(); // 필수 )
 
-    public static void dfs(int node) {
+    public static void dfs(int node, int height) {
         visited[node] = true; //필수 ) 방문표시
+        depth[node] = height;
+
 
 
         for (int next : graph.get(node)) {
             if (!visited[next]) {
                 if (node != End){
-                    count ++;
-                    dfs(next); //재귀호출
+                    dfs(next, height + 1); //재귀호출
 
                 }
             }
@@ -51,11 +53,14 @@ public class BaekJoon_2644 {
 
 
         visited = new boolean[n + 1];  // 필수 ) 방문 여부를 기록할 배열
+        depth = new int[n + 1];
 
         // 그래프 초기화
         for (int i = 0; i <= n; i++) {
             graph.add(new ArrayList<>());
         }
+
+
 
 
 
@@ -77,14 +82,17 @@ public class BaekJoon_2644 {
              int x = Integer.parseInt((st.nextToken())); // 부모
              int y = Integer.parseInt((st.nextToken())); // 자식
 
+
+            //방향성 없으니 양방향 연결.
             graph.get(x).add(y);
             graph.get(y).add(x);
 
-            dfs(Start); // 필수 ) 시작 노드
+
 
         }
+        dfs(Start, 1); // 필수 ) 시작 노드
+        System.out.println(depth[End] - 1);
 
-        System.out.println(count);
 
 
     }
