@@ -1,8 +1,8 @@
 # 📘 백준 단계별로 풀어보기
 
 > 백준 단계별로 풀어보기를 자바로 풀고 업로드합니다.
-> window : ctr + click
-> mac : cmd + click
+ window : ctr + click
+ mac : cmd + click
 
 ## 📂 Algoritm_Graph
 
