@@ -1,6 +1,6 @@
 # 📘 백준 단계별로 풀어보기
 
-> 자동 생성된 README입니다. 파일명을 기반으로 문제 정보를 정리했습니다.
+>자바로 백준 단계별로 풀어보기를 풀어서 업로드합니다.
 
 ## 📂 Algoritm_Graph
 - [DFS - BFS](https://www.acmicpc.net/problem/DFS) [`소스코드`](./src/Algoritm_Graph/DFS_BFS.java)
