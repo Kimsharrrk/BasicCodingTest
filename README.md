@@ -7,7 +7,7 @@
 ## 📂 Algoritm_Graph
 
 ## 📂 Array
-- [10807 - Unknown Title](https://www.acmicpc.net/problem/10807) [`소스코드`](./Array/BaekJoon_10807_Counting.java)
+- [10807 - Unknown Title](https://www.acmicpc.net/problem/10807) [`소스코드`](src./Array/BaekJoon_10807_Counting.java)
 - [10810 - Unknown Title](https://www.acmicpc.net/problem/10810) [`소스코드`](./Array/BaekJoon_10810_intoBall.java)
 - [10811 - Unknown Title](https://www.acmicpc.net/problem/10811) [`소스코드`](./Array/BaekJoon_10811.java)
 - [10813 - Unknown Title](https://www.acmicpc.net/problem/10813) [`소스코드`](./Array/BaekJoon_10813_ChangeBall.java)
