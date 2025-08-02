@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StamdardCodingTest.iml" filepath="$PROJECT_DIR$/StamdardCodingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicCodingTest.iml" filepath="$PROJECT_DIR$/BasicCodingTest.iml" />
     </modules>
   </component>
 </project>
