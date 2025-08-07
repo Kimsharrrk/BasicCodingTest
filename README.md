@@ -1,6 +1,14 @@
-# 📘 백준 단계별로 풀어보기
+# 📘 백준 단계별 문제 풀이
 
-> 자동 생성된 README입니다. 문제 번호를 기반으로 문제 제목과 링크가 자동 생성됩니다.
+![Language](https://img.shields.io/badge/Language-Java-blue?logo=Java)
+![Auto-Generated](https://img.shields.io/badge/README-Auto--Generated-blueviolet)
+
+> 개인 백준 학습 기록입니다. 각 문제는 번호와 제목, 그리고 소스코드 링크와 함께 정리되어 있습니다.
+
+🗓️ 마지막 업데이트: 2025-08-07
+현재까지 푼 문제 수: **48문제**
+
+---
 
 ## 📂 Array
 - <a href="https://www.acmicpc.net/problem/10807" target="_blank">10807 - Counting</a> [`소스코드`](src/Array/BaekJoon_10807_Counting.java)
