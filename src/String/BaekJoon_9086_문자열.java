@@ -4,20 +4,24 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BaekJoon_11720 {
+public class BaekJoon_9086_문자열 {
     public static void main(String[] args) throws IOException {
+
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 
         int num = Integer.parseInt(bf.readLine());
 
-        int total = 0;
-        String a = bf.readLine();
+        for (int i = 0 ; num > i ; i++){
+            String str = bf.readLine();
+
+            char start = str.charAt(0);
+            char last = str.charAt(str.length() -1);
+
+            System.out.println("" +start + last );
 
 
-        for (int i = 0;num > i ; i++ ){
-            int n = Integer.parseInt(String.valueOf(a.charAt(i)));
-            total = total + n;
+
+
         }
-        System.out.println(total);
     }
 }

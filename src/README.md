@@ -3,10 +3,10 @@
 > 자동 생성된 README입니다. 문제 번호를 기반으로 문제 제목과 링크가 자동 생성됩니다.
 
 ## 📂 Array
-- <a href="https://www.acmicpc.net/problem/10807" target="_blank">10807 - Unknown Title</a> [`소스코드`](src/Array/BaekJoon_10807_Counting.java)
+- <a href="https://www.acmicpc.net/problem/10807" target="_blank">10807 - Counting</a> [`소스코드`](src/Array/BaekJoon_10807_Counting.java)
 - <a href="https://www.acmicpc.net/problem/10810" target="_blank">10810 - 공 넣기</a> [`소스코드`](src/Array/BaekJoon_10810_intoBall.java)
 - <a href="https://www.acmicpc.net/problem/10811" target="_blank">10811 - 바구니 뒤집기</a> [`소스코드`](src/Array/BaekJoon_10811.java)
-- <a href="https://www.acmicpc.net/problem/10813" target="_blank">10813 - Unknown Title</a> [`소스코드`](src/Array/BaekJoon_10813_ChangeBall.java)
+- <a href="https://www.acmicpc.net/problem/10813" target="_blank">10813 - ChangeBall</a> [`소스코드`](src/Array/BaekJoon_10813_ChangeBall.java)
 - <a href="https://www.acmicpc.net/problem/10818" target="_blank">10818 - 최소, 최대</a> [`소스코드`](src/Array/BaekJoon_10818_LeastMost.java)
 - <a href="https://www.acmicpc.net/problem/10871" target="_blank">10871 - X보다 작은 수</a> [`소스코드`](src/Array/BaekJoon_10871_X.java)
 - <a href="https://www.acmicpc.net/problem/1546" target="_blank">1546 - 평균</a> [`소스코드`](src/Array/BaekJoon_1546_average.java)
@@ -15,13 +15,13 @@
 - <a href="https://www.acmicpc.net/problem/5597" target="_blank">5597 - 과제 안 한 사람</a> [`소스코드`](src/Array/BaekJoon_5597.java)
 
 ## 📂 Input_output_and_four_basic_operations
-- <a href="https://www.acmicpc.net/problem/1008" target="_blank">1008 - Unknown Title</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_1008_A_Div_B.java)
+- <a href="https://www.acmicpc.net/problem/1008" target="_blank">1008 - A Div B</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_1008_A_Div_B.java)
 - <a href="https://www.acmicpc.net/problem/10171" target="_blank">10171 - 고양이</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_10171_Cat.java)
 - <a href="https://www.acmicpc.net/problem/10172" target="_blank">10172 - 개</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_10172_Dog.java)
 - <a href="https://www.acmicpc.net/problem/10430" target="_blank">10430 - 나머지</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_10430_remainder.java)
 - <a href="https://www.acmicpc.net/problem/10869" target="_blank">10869 - 사칙연산</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_10869_FourBasicOperation.java)
 - <a href="https://www.acmicpc.net/problem/10926" target="_blank">10926 - ??!</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_10926_surprised.java)
-- <a href="https://www.acmicpc.net/problem/10998" target="_blank">10998 - Unknown Title</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_10998_A_Mul_B.java)
+- <a href="https://www.acmicpc.net/problem/10998" target="_blank">10998 - A Mul B</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_10998_A_Mul_B.java)
 - <a href="https://www.acmicpc.net/problem/11383" target="_blank">11383 - 뚝뚝이</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_11383_KidJeongMin.java)
 - <a href="https://www.acmicpc.net/problem/18108" target="_blank">18108 - 1998년생인 내가 태국에서는 2541년생?!</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_18108_ButaYear.java)
 - <a href="https://www.acmicpc.net/problem/2588" target="_blank">2588 - 곱셈</a> [`소스코드`](src/Input_output_and_four_basic_operations/BaekJoon_2588_Mul.java)
@@ -44,11 +44,12 @@
 - <a href="https://www.acmicpc.net/problem/8393" target="_blank">8393 - 합</a> [`소스코드`](src/Repeat/BaekJoon_8393_hap.java)
 
 ## 📂 String
-- <a href="https://www.acmicpc.net/problem/11654" target="_blank">11654 - Unknown Title</a> [`소스코드`](src/String/BaekJoon_11654.java)
-- <a href="https://www.acmicpc.net/problem/11720" target="_blank">11720 - Unknown Title</a> [`소스코드`](src/String/BaekJoon_11720.java)
-- <a href="https://www.acmicpc.net/problem/2743" target="_blank">2743 - Unknown Title</a> [`소스코드`](src/String/BaekJoon_2743.java)
-- <a href="https://www.acmicpc.net/problem/27866" target="_blank">27866 - Unknown Title</a> [`소스코드`](src/String/BaekJoon_27866.java)
-- <a href="https://www.acmicpc.net/problem/9086" target="_blank">9086 - Unknown Title</a> [`소스코드`](src/String/BaekJoon_9086.java)
+- <a href="https://www.acmicpc.net/problem/11654" target="_blank">11654 - 아스키코드</a> [`소스코드`](src/String/BaekJoon_11654_아스키코드.java)
+- <a href="https://www.acmicpc.net/problem/11720" target="_blank">11720 - 숫자의합</a> [`소스코드`](src/String/BaekJoon_11720_숫자의합.java)
+- <a href="https://www.acmicpc.net/problem/2675" target="_blank">2675 - 문자열반복</a> [`소스코드`](src/String/BaekJoon_2675_문자열반복.java)
+- <a href="https://www.acmicpc.net/problem/2743" target="_blank">2743 - 단어길이재기</a> [`소스코드`](src/String/BaekJoon_2743_단어길이재기.java)
+- <a href="https://www.acmicpc.net/problem/27866" target="_blank">27866 - 문자와문자열</a> [`소스코드`](src/String/BaekJoon_27866_문자와문자열.java)
+- <a href="https://www.acmicpc.net/problem/9086" target="_blank">9086 - 문자열</a> [`소스코드`](src/String/BaekJoon_9086_문자열.java)
 
 ## 📂 conditional
 - <a href="https://www.acmicpc.net/problem/1330" target="_blank">1330 - 두 수 비교하기</a> [`소스코드`](src/conditional/BaekJoon_1330.java)
