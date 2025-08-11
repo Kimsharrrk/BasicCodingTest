@@ -9,7 +9,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BaekJoon_10809_알파뱃찾 {
+public class BaekJoon_10809_알파뱃찾기 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
@@ -41,22 +41,15 @@ public class BaekJoon_10809_알파뱃찾 {
             find[i] = -1;
         }
 
-        for (int i = 0; word.length() > i; i++){
-            //3. if ( 단어와 알파벳 이 있다면 )
-            //3-1 if (
 
-            for (int j = 0; charArr.length > j ; j++){
-
-                if (word.charAt(i) == charArr[j] ){
-                    find[j] += i;
-                    break;
-                }
-
-
+        for (int i = 0; i < word.length(); i++) {
+            char ch = word.charAt(i);
+            int idx = ch - 'a'; // a=0, b=1 ...
+            if (find[idx] == -1) { // 아직 기록 안된 경우만
+                find[idx] = i;
             }
-
-
         }
+
 
         for (int i = 0 ; find.length > i ; i++){
             System.out.print(find[i]+ " ");
