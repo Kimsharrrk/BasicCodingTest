@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-Java-blue?logo=Java)
 ![Auto-Generated](https://img.shields.io/badge/README-Auto--Generated-blueviolet)
 
-> 개인 백준 학습 기록입니다. 각 문제는 번호와 제목, 그리고 소스코드 링크와 함께 정리되어 있습니다.
+> 개인 백준 학습 기록입니다. 각 문제는 번호와 제목, 그리고 소스코드 링크와 함께 정리되어 있습니다..
 
 🗓️ 마지막 업데이트: 2025-08-19
 현재까지 푼 문제 수: **58문제**
