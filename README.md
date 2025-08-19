@@ -5,8 +5,8 @@
 
 > 개인 백준 학습 기록입니다. 각 문제는 번호와 제목, 그리고 소스코드 링크와 함께 정리되어 있습니다.
 
-🗓️ 마지막 업데이트: 2025-08-12
-현재까지 푼 문제 수: **54문제**
+🗓️ 마지막 업데이트: 2025-08-19
+현재까지 푼 문제 수: **58문제**
 
 ---
 
@@ -21,6 +21,12 @@
 - <a href="https://www.acmicpc.net/problem/2562" target="_blank">2562 - 최댓값</a> [`소스코드`](src/Array/BaekJoon_2562_Most.java)
 - <a href="https://www.acmicpc.net/problem/3052" target="_blank">3052 - 나머지</a> [`소스코드`](src/Array/BaekJoon_3052.java)
 - <a href="https://www.acmicpc.net/problem/5597" target="_blank">5597 - 과제 안 한 사람</a> [`소스코드`](src/Array/BaekJoon_5597.java)
+
+## 📂 Deepning1
+- <a href="https://www.acmicpc.net/problem/10988" target="_blank">10988 - 팰린드롬인지확인하기</a> [`소스코드`](src/Deepning1/BaekJoon_10988_팰린드롬인지확인하기.java)
+- <a href="https://www.acmicpc.net/problem/2444" target="_blank">2444 - 별 찍기 - 7</a> [`소스코드`](src/Deepning1/BaekJoon_2444_별찍기7.java)
+- <a href="https://www.acmicpc.net/problem/28083" target="_blank">28083 - 새싹</a> [`소스코드`](src/Deepning1/BaekJoon_28083_새싹.java)
+- <a href="https://www.acmicpc.net/problem/3003" target="_blank">3003 - 킹, 퀸, 룩, 비숍, 나이트, 폰</a> [`소스코드`](src/Deepning1/BaekJoon_3003_킹퀸룩비숍나이트.java)
 
 ## 📂 Graph_Traversal
 - <a href="https://www.acmicpc.net/problem/24479" target="_blank">24479 - 깊이우선탐색1</a> [`소스코드`](src/Graph_Traversal/BaekJoon_24479_깊이우선탐색1.java)
